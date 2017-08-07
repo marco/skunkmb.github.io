@@ -39,7 +39,9 @@
 }
 
 .hero .social-link {
+    margin-left: 8px;
     margin-right: 8px;
+
     text-decoration: none;
     font-size: 32px;
 }
