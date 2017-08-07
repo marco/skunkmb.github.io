@@ -1,3 +1,1 @@
-$(document).ready(() => {
-    $("nav").pushpin();
-});
+SmoothScroll('a[href*="#"]');
